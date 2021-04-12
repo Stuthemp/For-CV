@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/top"
+        style="@style/CategoryStyle"
+        android:background="@color/role_top"
+        android:text="@string/category_top" />
+
+    <TextView
+        android:id="@+id/jungle"
+        style="@style/CategoryStyle"
+        android:background="@color/role_jungler"
+        android:text="@string/category_jungle" />
+
+
+    <TextView
+        android:id="@+id/mid"
+        style="@style/CategoryStyle"
+        android:background="@color/role_mid"
+        android:text="@string/category_mid" />
+
+    <TextView
+        android:id="@+id/adc"
+        style="@style/CategoryStyle"
+        android:background="@color/role_adc"
+        android:text="@string/category_adc" />
+
+    <TextView
+        android:id="@+id/support"
+        style="@style/CategoryStyle"
+        android:background="@color/role_support"
+        android:text="@string/category_support" />
+
+</LinearLayout>

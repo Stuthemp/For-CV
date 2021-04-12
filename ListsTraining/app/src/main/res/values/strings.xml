@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ListsTraining</string>
+
+    <!-- FragmentActors -->
+    <string name="fragment_actors_header">Champions</string>
+    <string name="toplaners">Toplaners</string>
+    <string name="fragment_actors_empty_text">There are no champions atm</string>
+    <string name="fragment_actors_avatar_content_description">Champion avatar</string>
+    <string name="fragment_actors_avatar_oscar_state_text">range: %1$s</string>
+    <!-- FragmentActors -->
+
+    <string name="fragment_actors_chosen_text">You chose: %1$s</string>
+</resources>

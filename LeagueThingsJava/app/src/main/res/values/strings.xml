@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LeagueThingsJava</string>
+    <string name="category_jungle">Junglers</string>
+    <string name="category_top">Toplaners</string>
+    <string name="category_mid">Midlaners</string>
+    <string name="category_adc">ADCs</string>
+    <string name="category_support">Supports</string>
+</resources>
